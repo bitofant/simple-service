@@ -1,0 +1,14 @@
+{
+  "name": "simple-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "joeran.tesse@iteratec.de",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
